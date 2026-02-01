@@ -21,7 +21,7 @@ Interface: Console-based (Text User Interface)
 
 The project is implemented entirely in C++, following object-oriented programming principles.
 
-Brief Project Description
+Brief Project Description:
 
 This project is a Library Management System developed in C++ that allows users to perform essential library operations efficiently. The system supports Create, Read, Update, and Delete (CRUD) operations for managing books, users, and borrowing records.
 
